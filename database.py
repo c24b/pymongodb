@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 from pymongo import errors
-import re
+
+
 class Model(object):
 	def __init__(self):
 		self.value1 = "value1"

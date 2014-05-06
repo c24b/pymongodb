@@ -1,0 +1,4 @@
+pymongodb
+=========
+
+Tricks for pymongo
